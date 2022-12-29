@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Cement",
+      "uom": "Bags",
+      "qty": 10
+    },
+    {
+     "id": 2,
+      "name": "Steel",
+      "uom": "Kgs",
+      "qty": 10
+    },
+    {
+      "id": 3,
+      "name": "Glass",
+      "uom": "Nos",
+      "qty": 10
+    },
+    {
+     "id": 4,
+      "name": "Pipe",
+      "uom": "Mtrs",
+      "qty": 10
+    },
+    {
+      "id": 5,
+      "name": "Wooden door",
+      "uom": "Nos",
+      "qty": 2
+    }
+  ]
